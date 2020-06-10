@@ -15,11 +15,9 @@ This repository contains my solutions to the assignments of the Coursera course
 
 ### Module 4
 * [Assignment description](./assignments/assignment4/Assignment-4.md)
-* [Solution](https://ranjeetrk.github.io/Coursera-HTML-CSS-and-Javascript-for-Web-Developers/module4-solution/)
+* [Solution easier version](https://ranjeetrk.github.io/Coursera-HTML-CSS-and-Javascript-for-Web-Developers/module4-solution/easier)
+* [Solution harder version](https://ranjeetrk.github.io/Coursera-HTML-CSS-and-Javascript-for-Web-Developers/module4-solution/harder)
 
 ### Module 5
 * [Assignment description](./assignments/assignment5/Assignment-5.md)
 * [Solution](https://ranjeetrk.github.io/Coursera-HTML-CSS-and-Javascript-for-Web-Developers/module5-solution/)
-
-This repository contains my solutions to the assignments of the Coursera course
-["HTML, CSS, and Javascript for Web Developers" by Johns Hopkins University](https://www.coursera.org/learn/html-css-javascript-for-web-developers).+
