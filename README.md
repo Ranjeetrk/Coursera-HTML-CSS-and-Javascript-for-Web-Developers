@@ -20,4 +20,4 @@ This repository contains my solutions to the assignments of the Coursera course
 
 ### Module 5
 * [Assignment description](./assignments/assignment5/Assignment-5.md)
-* [Solution](https://ranjeetrk.github.io/Coursera-HTML-CSS-and-Javascript-for-Web-Developers/module5-solution/)
+* [Solution](https://ranjeetrk.github.io/Coursera-HTML-CSS-and-Javascript-for-Web-Developers/module5-solution/index.html)
